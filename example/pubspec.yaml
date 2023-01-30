@@ -21,7 +21,7 @@ dependencies:
   extended_image: any
   extended_nested_scroll_view:
       path: ../  
-  ff_annotation_route_library: ^2.0.0
+  ff_annotation_route_library: ^3.0.0
   flutter:
     sdk: flutter  
   intl: ^0.15.7  
